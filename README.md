@@ -1,3 +1,5 @@
+![about](linkedin.png)
+
 ### Hello, I am Pierre, web developer & trainer in web developement.
 
 ### Okay?
