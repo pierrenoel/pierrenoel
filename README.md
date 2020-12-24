@@ -1,6 +1,6 @@
 ![about](linkedin.png)
 
-### Hello, I am Pierre, web developer & trainer in web developement.
+### Hello, I am Pierre, web developer ;)
 
 ### Okay?
 - 🔭 I’m currently working on the front-end & back-end of a new personal tool. 
