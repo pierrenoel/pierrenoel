@@ -16,5 +16,5 @@
 
 ## Working on
 - [TinyBack](https://github.com/pierrenoel/TinyBack) : is a little framework back-end I am working on... Not fisnished yet and left much work to do.
-- [TinyFront](https://github.com/pierrenoel/TInyFront) : is a liitle framework fron-end I am working on...
+- [TinyFront](https://github.com/pierrenoel/TInyFront) : is a little framework fron-end I am working on...
 
