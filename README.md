@@ -10,11 +10,3 @@
 ### Leaning? 
 - [POO](https://github.com/pierrenoel/POO-Briefing)
 - [Laravel](https://github.com/pierrenoel/Laravel-Briefing)
-
-### Some old and new projects
-- [App clients-voice](https://github.com/pierrenoel/App-Clients-invoices)
-
-## Working on
-- [TinyBack](https://github.com/pierrenoel/TinyBack) : is a little framework back-end I am working on... Not fisnished yet and left much work to do.
-- [TinyFront](https://github.com/pierrenoel/TInyFront) : is a little framework front-end I am working on...
-
