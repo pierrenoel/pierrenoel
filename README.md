@@ -1,6 +1,9 @@
 ![about](about.png)
 
 ## **Hej, it is Pierre, Web Dev**
+
+let us get in touch!
+
 [![Foo](linkedin.svg)](https://www.linkedin.com/in/pierreno%C3%ABl/)
 
 ## **Readme** 
