@@ -4,13 +4,10 @@
 
 **Let us get in touch!**
 
-[![Foo](linkedin.svg)](https://www.linkedin.com/in/pierreno%C3%ABl/)
+<a href="https://www.linkedin.com/in/pierreno%C3%ABl/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-<p align="center">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/pierreno%C3%ABl/)">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-</p>
 
 ## **Want to learn something today?** 
 - [Get the basics of POO in PHP](https://github.com/pierrenoel/POO-Briefing)
