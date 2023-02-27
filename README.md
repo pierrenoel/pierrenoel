@@ -15,4 +15,4 @@
 
 ## Discover my packages
 
-- [Simple Router](https://github.com/pierrenoel/router)
+- [Router](https://github.com/pierrenoel/router)
