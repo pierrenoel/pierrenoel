@@ -37,6 +37,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/pierrenoel/Template_PHP_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrenoel&repo=Template_PHP_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pierrenoel/POO-Briefing" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrenoel&repo=POO-Briefing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<a href="https://www.github.com/pierrenoel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pierrenoel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
