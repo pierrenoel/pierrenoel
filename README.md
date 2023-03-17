@@ -3,11 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pierre
 ==============================================================================================================================
 
-<a href="https://www.github.com/pierrenoel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pierrenoel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -41,3 +37,6 @@ src="https://img.shields.io/github/followers/pierrenoel?logo=github&style=for-th
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/pierrenoel/Template_PHP_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrenoel&repo=Template_PHP_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pierrenoel/POO-Briefing" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pierrenoel&repo=POO-Briefing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<a href="https://www.github.com/pierrenoel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/pierrenoel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
