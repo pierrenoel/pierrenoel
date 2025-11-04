@@ -1,16 +1,18 @@
-![about](about2.png)
+![about](about.png)
 
-# Backend Developer
+# Hi, Welcome Here!
 
-## Présentation
-- Building scalable and high-performance backend systems.  
-- Ensuring clean and intuitive front-end design.  
-- Expert in PHP and Laravel environment.  
-- Familiar with HTML, CSS, SCSS, JavaScript.  
-- Comfortable with Linux, Terminal, and development workflows.  
+I love building scalable and high-performance backend systems while ensuring clean and intuitive front-end design.
+
+- Building scalable and high-performance backend systems.
+- Ensuring clean and intuitive front-end design.
+- Expert in PHP and Laravel environment.
+- Familiar with HTML, CSS, SCSS, JavaScript.
+- Comfortable with Linux, Terminal, and development workflows.
 - Knowledge of .NET, Tailwind CSS, and modern web development tools.
 
-## Compétences / Badges
+## Skills
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
