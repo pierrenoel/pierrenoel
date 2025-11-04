@@ -1,4 +1,4 @@
-![about](about.png)
+![about](about2.png)
 
 # Backend Developer
 
