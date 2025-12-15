@@ -6,7 +6,7 @@ I love building scalable and high-performance backend systems while ensuring cle
 
 - Building scalable and high-performance backend systems.
 - Ensuring clean and intuitive front-end design.
-- Expert in PHP and Laravel environment.
+- Familiar in PHP and Laravel environment.
 - Familiar with HTML, CSS, SCSS, JavaScript.
 - Comfortable with Linux, Terminal, and development workflows.
 - Knowledge of .NET, Tailwind CSS, and modern web development tools.
